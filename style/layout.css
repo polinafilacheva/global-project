@@ -570,15 +570,42 @@ h6 {
   box-shadow: 1px 1px 50px -16px;
 }
 
-.poster h2 {
+.jobposter h2 {
   margin-top: -21vw;
 }
 
-.poster p {
+.jobposter p {
   position: relative;
   z-index: 2;
 
   width: 35vw;
   margin-top: -37vw;
   margin-left: 59vw;
+}
+
+.nineteen {
+  width: 33vw;
+  margin-top: 61vw;
+  margin-left: 60vw;
+}
+
+#second6 {
+  position: relative;
+  z-index: 3;
+
+  width: 22vw;
+  height: 0.2vw;
+  margin-top: -21vw;
+  margin-left: 69vw;
+
+  border: none;
+  background-color: black;
+}
+
+.graphic h3 {
+  margin-left: 44vw;
+}
+
+.graphic {
+  margin-left: -12vw;
 }
