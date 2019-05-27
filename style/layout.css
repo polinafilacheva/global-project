@@ -38,6 +38,18 @@ a {
   color: blueviolet;
 }
 
+.poster a {
+  color: chocolate;
+}
+
+.book a {
+  color: blue;
+}
+
+.modo a {
+  color: darkorchid;
+}
+
 .one {
   position: relative;
   z-index: 2;
@@ -197,7 +209,7 @@ p {
   margin-top: -11vw;
   margin-left: 10vw;
 
-  box-shadow: 1px 1px 50px -16px;
+  box-shadow: 1px 1px 40px 1px;
 }
 
 .poster p {
