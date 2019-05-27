@@ -60,12 +60,12 @@ a {
   box-shadow: 1px 1px 50px -16px;
 }
 
-.hallo p {
+.hello p {
   position: relative;
   z-index: 4;
 
   width: 27vw;
-  margin-top: -40vw;
+  margin-top: -42vw;
   margin-left: 17vw;
 }
 
@@ -167,7 +167,7 @@ p {
   font-family: 'Open Sans Condensed', sans-serif;
   font-size: 2vw;
   font-weight: 300;
-  line-height: 2.4vw;
+  line-height: 2.7vw;
 }
 
 .four {
