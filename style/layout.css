@@ -470,7 +470,7 @@ h6 {
   position: relative;
   z-index: 2;
 
-  width: 50vw;
+  width: 46vw;
   height: 104vw;
   margin-top: -60vw;
 }
@@ -489,7 +489,7 @@ h6 {
 
 .fourteen {
   width: 42vw;
-  margin-top: 19vw;
+  margin-top: 4vw;
   margin-left: 42vw;
 }
 
@@ -498,7 +498,7 @@ h6 {
   z-index: 3;
 
   width: 22vw;
-  height: 0.2vw;
+  height: 0.3vw;
   margin-top: -30vw;
   margin-left: 58vw;
 
@@ -523,7 +523,7 @@ h6 {
   z-index: 3;
 
   width: 99vw;
-  margin-top: -58vw;
+  margin-top: -51vw;
 }
 
 .figure2 {
@@ -538,8 +538,8 @@ h6 {
 #first6 {
   width: 20vw;
   height: 0.2vw;
-  margin-top: 13vw;
-  margin-left: 12vw;
+  margin-top: 5vw;
+  margin-left: 77vw;
 
   transform: rotate(90deg);
 
