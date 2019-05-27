@@ -15,6 +15,29 @@ header {
   justify-content: space-around;
 }
 
+.stsrtposter {
+  display: flex;
+
+  width: 58vw;
+  margin-top: 4vw;
+  margin-bottom: 4vw;
+  margin-left: 35vw;
+
+  font-size: 3vw;
+
+  justify-content: space-around;
+}
+
+a {
+  text-decoration: none;
+
+  color: #000000;
+}
+
+.webposter a {
+  color: blueviolet;
+}
+
 .one {
   position: relative;
   z-index: 2;
@@ -269,7 +292,7 @@ p {
   z-index: 3;
 
   width: 22vw;
-  height: 0.2vw;
+  height: 0.3vw;
   margin-top: -23vw;
   margin-left: 68vw;
 
