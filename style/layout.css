@@ -15,7 +15,7 @@ header {
   justify-content: space-around;
 }
 
-.stsrtposter {
+.startposter {
   display: flex;
 
   width: 58vw;
@@ -558,4 +558,27 @@ h6 {
 
 .endposter {
   margin-top: -33vw;
+}
+
+.eighteen {
+  position: relative;
+  z-index: 2;
+
+  width: 85vw;
+  margin-left: 7vw;
+
+  box-shadow: 1px 1px 50px -16px;
+}
+
+.poster h2 {
+  margin-top: -21vw;
+}
+
+.poster p {
+  position: relative;
+  z-index: 2;
+
+  width: 35vw;
+  margin-top: -37vw;
+  margin-left: 59vw;
 }
