@@ -132,12 +132,14 @@ h1 {
   background-color: #C4C4C4;
 }
 
-#first, #first2, #first4, #first5, #first6 {
+#first, #first2, #first4, #first5, #first6,
+#first7, #first8 {
   width: 15vw;
   height: 0.3vw;
 }
 
-#second, #second1, #second2, #second3, #second4, #second5, #second6 {
+#second, #second1, #second2, #second3, #second4, #second5, #second6,
+#second7 {
   width: 15vw;
   height: 0.3vw;
 }
@@ -599,7 +601,7 @@ h6 {
 }
 
 .jobposter h2 {
-  margin-top: -18vw;
+  margin-top: -26vw;
   margin-left: 19vw;
 }
 
@@ -654,7 +656,7 @@ h6 {
 
 .graph1 {
   position: relative;
-  z-index: 1;
+  z-index: 2;
 
   width: 40vw;
   margin-top: 12vw;
@@ -665,8 +667,8 @@ h6 {
   z-index: 1;
 
   width: 53vw;
-  margin-top: -73vw;
-  margin-left: 46vw;
+  margin-top: -67vw;
+  margin-left: 47vw;
 }
 
 .graph4 {
@@ -674,24 +676,138 @@ h6 {
   z-index: 2;
 
   width: 24vw;
-  margin-top: -32vw;
+  margin-top: -37vw;
 }
+
 
 .graph3 {
   position: relative;
   z-index: 3;
 
   width: 48vw;
-  margin-top: 5vw;
+  margin-top: -3vw;
   margin-left: 30vw;
 }
 
 .graph5 {
   width: 40vw;
-  margin-top: -11vw;
+  margin-top: -6vw;
   margin-left: 60vw;
+}
+
+.graph6 {
+  position: relative;
+  z-index: 3;
+
+  width: 34vw;
+  margin-top: -39.3vw;
+  margin-left: 30vw;
+}
+
+.graph7 {
+  position: relative;
+  z-index: 2;
+
+  width: 24vw;
+  margin-top: -29vw;
+}
+
+.graph8 {
+  position: relative;
+  z-index: 2;
+
+  width: 54vw;
+  height: 36vw;
+  margin-top: -40vw;
+  margin-left: 46vw;
+}
+
+.box3 {
+  position: relative;
+  z-index: 1;
+
+  width: 40vw;
+  margin-top: -132vw;
+  margin-left: 0vw;
 }
 
 .no {
   margin-top: 10vw;
+}
+
+#first7 {
+  margin-top: -41vw;
+  margin-left: 87vw;
+
+  transform: rotate(90deg);
+
+  border: none;
+  background-color: black;
+}
+
+.box4 {
+  position: relative;
+  z-index: 1;
+
+  width: 37vw;
+  height: 50vw;
+  margin-left: 79vw;
+}
+
+.twenty {
+  width: 41vw;
+  margin-left: 11vw;
+}
+
+#second7 {
+  position: relative;
+  z-index: 3;
+
+  margin-top: -30vw;
+  margin-left: 59vw;
+
+  border: none;
+  background-color: black;
+}
+
+.fonts h3 {
+  position: relative;
+  z-index: 2;
+
+  margin-top: 3vw;
+  margin-left: 27vw;
+
+  font-size: 6vw;
+}
+
+.fonts p {
+  width: 37vw;
+  margin-top: 9vw;
+  margin-left: 27vw;
+}
+
+#first8 {
+  margin-top: 5vw;
+  margin-left: 71vw;
+
+  transform: rotate(90deg);
+
+  border: none;
+  background-color: black;
+}
+
+.fonts {
+  margin-left: 6vw;
+}
+
+.font {
+  width: 43vw;
+  margin-top: 18vw;
+  margin-left: 10vw;
+}
+
+.font2 {
+  width: 41vw;
+  margin-top: -29vw;
+  margin-left: 59vw;
 }
