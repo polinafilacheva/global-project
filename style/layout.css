@@ -67,11 +67,11 @@ a {
 
 .link, .link2, .link3, .link4
  {
-  margin-top: 2vw;
+  margin-top: 4vw;
 
   font-family: 'Open Sans Condensed', sans-serif;
   font-size: 2vw;
-  font-weight: 300;
+  font-weight: bold;
 }
 
 .link {
@@ -145,7 +145,7 @@ h1 {
 }
 
 #first {
-  margin-top: -24vw;
+  margin-top: 44vw;
   margin-left: 53vw;
 
   transform: rotate(90deg);
@@ -170,7 +170,7 @@ h1 {
   z-index: 2;
 
   width: 32vw;
-  margin-top: 15vw;
+  margin-top: 20vw;
   margin-left: 12.4vw;
 }
 
@@ -201,9 +201,9 @@ p {
   margin-left: 9vw;
 
   font-family: 'Open Sans Condensed', sans-serif;
-  font-size: 2vw;
+  font-size: 1.6vw;
   font-weight: 300;
-  line-height: 2.7vw;
+  line-height: 2.3vw;
 }
 
 .four {
@@ -248,7 +248,7 @@ p {
 
 .poster p {
   width: 35vw;
-  margin-top: -38vw;
+  margin-top: -40vw;
   margin-left: 62vw;
 }
 
@@ -316,17 +316,18 @@ p {
   box-shadow: 1px 1px 50px -16px;
 }
 
-.box3 {
+.box4 {
   position: relative;
   z-index: 1;
 
   width: 34vw;
-  margin-top: -21vw;
+  margin-top: -9vw;
   margin-left: 38vw;
 }
 
 .book p {
   width: 26vw;
+  margin-top: -36vw;
 }
 
 #first2 {
@@ -365,7 +366,7 @@ p {
   z-index: 2;
 
   width: 37vw;
-  margin-top: -27vw;
+  margin-top: -32vw;
   margin-left: 34vw;
 }
 
@@ -381,7 +382,7 @@ p {
 
 .modo p {
   width: 36vw;
-  margin-top: -49vw;
+  margin-top: -52vw;
   margin-left: 60vw;
 }
 
@@ -659,7 +660,7 @@ h6 {
   z-index: 2;
 
   width: 40vw;
-  margin-top: 12vw;
+  margin-top: 7vw;
 }
 
 .graph2 {
@@ -727,8 +728,8 @@ h6 {
   z-index: 1;
 
   width: 40vw;
-  margin-top: -132vw;
-  margin-left: 0vw;
+  margin-top: -28vw;
+  margin-left: 38vw;
 }
 
 .no {
@@ -800,14 +801,73 @@ h6 {
   margin-left: 6vw;
 }
 
+.font, .font2, .font3, .font4, .font5, .font6 {
+  box-shadow: 1px 1px 50px -16px;
+}
+
 .font {
   width: 43vw;
-  margin-top: 18vw;
+  margin-top: -37vw;
   margin-left: 10vw;
 }
 
 .font2 {
+  position: relative;
+  z-index: 2;
+
   width: 41vw;
   margin-top: -29vw;
   margin-left: 59vw;
+}
+
+ .no3 img {
+  width: 53vw;
+  margin-top: -24vw;
+}
+
+.font4 {
+  position: absolute;
+  z-index: 3;
+
+  width: 31vw;
+  margin-top: -72vw;
+  margin-left: 37vw;
+}
+
+.font5 {
+  width: 41vw;
+  margin-top: -48vw;
+  margin-left: 59vw;
+}
+
+.font6 {
+  width: 56vw;
+  margin-top: -4vw;
+  margin-left: 10vw;
+}
+
+.box6 {
+  position: relative;
+  z-index: 1;
+
+  width: 36vw;
+  height: 59vw;
+  margin-top: -19vw;
+  margin-left: 58vw;
+}
+
+.endfont .ten {
+  position: relative;
+  z-index: 2;
+
+  width: 19vw;
+  margin-top: 9vw;
+  margin-left: 76vw;
+}
+
+.box7 {
+  position: relative;
+  z-index: 1;
+  width: 40vw;
+  margin-top: -131vw;
 }
