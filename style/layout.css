@@ -133,13 +133,14 @@ h1 {
 }
 
 #first, #first2, #first4, #first5, #first6,
-#first7, #first8 {
+#first7, #first8, #first9, #first10,
+#first11, #first12, #first13, #first14, #first15, #first16  {
   width: 15vw;
   height: 0.3vw;
 }
 
 #second, #second1, #second2, #second3, #second4, #second5, #second6,
-#second7 {
+#second7, #second8, #second9, #second10, #second11, #second13, #second14, #second15, #second16, #second17, #second18 {
   width: 15vw;
   height: 0.3vw;
 }
@@ -392,7 +393,7 @@ p {
 
   width: 100%;
   height: 21vw;
-  margin-top: -11vw;
+  margin-top: 44vw;
 
   opacity: .2;
   background-color: #C4C4C4;
@@ -421,13 +422,17 @@ h5 {
   margin-top: -15vw;
   margin-left: 10vw;
 
-  font-size: 3vw;
+  font-size: 2.7vw;
+  font-weight: bold;
 }
 
 h6 {
-  margin-top: 4vw;
+  margin-top: 2vw;
   margin-left: 10vw;
+
+  font-size: 2vw;
 }
+
 
 .eleven {
   position: relative;
@@ -610,7 +615,7 @@ h6 {
   position: relative;
   z-index: 2;
 
-  width: 35vw;
+  width: 34vw;
   margin-top: -37vw;
   margin-left: 59vw;
 }
@@ -868,6 +873,576 @@ h6 {
 .box7 {
   position: relative;
   z-index: 1;
+
   width: 40vw;
   margin-top: -131vw;
+}
+
+.endfont .end {
+  margin-top: 19vw;
+}
+
+.modohello h2 {
+  margin-top: -49vw;
+  margin-left: 12vw;
+}
+
+.modohello p {
+  position: relative;
+  z-index: 3;
+
+  width: 29vw;
+  margin-top: 17vw;
+  margin-left: 61vw;
+}
+
+.twentyone {
+  width: 30vw;
+  margin-top: 29vw;
+  margin-left: 13vw;
+}
+
+#second8 {
+  position: relative;
+  z-index: 3;
+
+  margin-top: -16vw;
+  margin-left: 66vw;
+
+  border: none;
+  background-color: black;
+}
+
+.whatitis h3 {
+  margin-top: 4vw;
+  margin-left: 22vw;
+}
+
+.whatitis p {
+  width: 47vw;
+  margin-top: 7vw;
+  margin-left: 23vw;
+}
+
+.modo2 {
+  position: relative;
+  z-index: 1;
+
+  width: 93vw;
+  margin-top: 10vw;
+}
+
+.modo3 {
+  position: absolute;
+  z-index: 2;
+
+  width: 42vw;
+  margin-top: 37vw;
+  margin-left: -40vw;
+}
+
+#second9 {
+  position: relative;
+  z-index: 3;
+
+  margin-top: -17vw;
+  margin-left: 65vw;
+
+  border: none;
+  background-color: black;
+}
+
+.twentytwo {
+  width: 36vw;
+  margin-top: 13vw;
+  margin-left: 8vw;
+}
+
+.development h3 {
+  margin-top: -16vw;
+  margin-left: 22vw;
+
+}
+
+.development p {
+  width: 51vw;
+  margin-top: 7vw;
+  margin-left: 22vw;
+}
+
+#first9 {
+  margin-top: 15vw;
+  margin-left: 71vw;
+
+  transform: rotate(90deg);
+
+  border: none;
+  background-color: black;
+}
+
+.modo5 {
+  width: 34vw;
+  margin-top: 16vw;
+  margin-left: 19vw;
+}
+
+.modo4 {
+  position: absolute;
+
+  width: 37vw;
+  margin-top: 32vw;
+  margin-left: -51vw;
+}
+
+.modo6 {
+  position: absolute;
+
+  width: 29vw;
+  margin-top: 37vw;
+  margin-left: 6vw;
+}
+
+.modo7 {
+  position: absolute;
+
+  width: 62vw;
+  margin-top: 70vw;
+  margin-left: -54vw;
+}
+
+.modo8 {
+  position: absolute;
+
+  width: 28vw;
+  margin-top: 87vw;
+  margin-left: 10vw;
+}
+
+.modo9, .modo10 {
+  position: absolute;
+
+  width: 100%;
+
+  box-shadow: 1px 1px 50px -16px
+}
+
+.modo9 {
+  margin-top: 154vw;
+  margin-left: -53vw;
+}
+
+.modo10 {
+  margin-top: 231vw;
+  margin-left: -53vw;
+}
+
+.example3 {
+  margin-top: -24vw;
+}
+
+.modo11 {
+  width: 45vw;
+  height: 157vw;
+  margin-top: -63vw;
+  margin-left: 55vw;
+}
+
+.development {
+  margin-left: 4vw;
+}
+
+.endmodo .end {
+  margin-top: 153vw;
+}
+
+.bookhello h2 {
+  margin-top: -51vw;
+  margin-left: 27vw;
+}
+
+.bookhello p {
+  position: relative;
+  z-index: 2;
+
+  margin-top: 18vw;
+  margin-left: 13vw;
+}
+
+.twentythree {
+  width: 40vw;
+  margin-top: 28vw;
+  margin-left: 20vw;
+
+  transform: rotate(10deg);
+}
+
+.idea h3 {
+  margin-top: 1vw;
+  margin-left: 35vw;
+}
+
+.idea p {
+  width: 41vw;
+  margin-top: 8vw;
+  margin-left: 35vw;
+}
+
+.book {
+  position: relative;
+  z-index: 2;
+
+  width: 100%;
+  margin-top: 16vw;
+
+
+}
+
+.book2 {
+  position: relative;
+  z-index: 1;
+
+  width: 41vw;
+  margin-top: -58vw;
+  margin-left: 59vw;
+
+
+}
+
+.twentyfour {
+  width: 30vw;
+  margin-top: -32vw;
+  margin-left: 10vw;
+}
+
+.kitchen h3 {
+  position: relative;
+  z-index: 2;
+
+  margin-top: -19vw;
+  margin-left: 26vw;
+
+  font-size: 6vw;
+}
+
+.kitchen p {
+  width: 35vw;
+  margin-top: 8vw;
+  margin-left: 26vw;
+
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 1.6vw;
+  font-weight: 300;
+  line-height: 2.3vw;
+}
+
+#second9 {
+  position: absolute;
+  z-index: 3;
+
+  margin-top: -25vw;
+  margin-left: 39vw;
+
+  border: none;
+  background-color: black;
+}
+
+#first10 {
+  margin-top: 16vw;
+  margin-left: 73vw;
+
+  transform: rotate(90deg);
+
+  border: none;
+  background-color: black;
+}
+
+.book3 {
+  width: 39vw;
+  margin-left: -1vw;
+
+  box-shadow: 1px 1px 50px -16px;
+}
+
+.book4 {
+  position: absolute;
+
+  width: 46vw;
+  margin-top: 14vw;
+  margin-left: 4vw;
+
+  box-shadow: 1px 1px 50px -16px;
+}
+
+.book5 {
+  position: absolute;
+
+  width: 41vw;
+  margin-top: -27vw;
+  margin-top: 50vw;
+  margin-left: -42vw;
+
+  box-shadow: 1px 1px 50px -16px;
+}
+
+.book6 {
+  position: absolute;
+
+  width: 59vw;
+  margin-top: 45vw;
+  margin-left: 3vw;
+
+  box-shadow: 1px 1px 50px -16px;
+}
+
+.book7 {
+  position: relative;
+  z-index: 2;
+
+  width: 100vw;
+  margin-top: 38vw;
+  margin-left: -1vw;
+
+  box-shadow: 1px 1px 50px -16px;
+}
+
+.book8 {
+  position: relative;
+  z-index: 1;
+
+  width: 50vw;
+  margin-top: -33vw;
+}
+
+.twentyfive {
+  width: 43vw;
+  margin-top: -35vw;
+  margin-left: 29vw;
+}
+
+.bedroom h3 {
+  margin-top: -18vw;
+  margin-left: 53vw;
+
+
+}
+ .bedroom p {
+  width: 33vw;
+  margin-top: 8vw;
+  margin-left: 53vw;
+ }
+
+#second10 {
+  position: absolute;
+  z-index: 3;
+
+  margin-top: -22vw;
+  margin-left: 73vw;
+
+  border: none;
+  background-color: black;
+}
+
+ #first11 {
+   margin-left: 7vw;
+
+   transform: rotate(90deg);
+
+   border: none;
+   background-color: black;
+ }
+
+.book9 {
+  position: relative;
+  z-index: 2;
+
+  width: 44vw;
+  margin-top: 19vw;
+
+  box-shadow: 1px 1px 50px -16px;
+}
+
+.book10 {
+  position: absolute;
+  z-index: 2;
+
+  width: 45vw;
+  margin-top: 19vw;
+  margin-left: 5vw;
+
+  box-shadow: 1px 1px 50px -16px;
+}
+
+.book11 {
+  position: absolute;
+  z-index: 2;
+
+  width: 54vw;
+  margin-top: 63vw;
+  margin-left: -5vw;
+
+  box-shadow: 1px 1px 50px -16px;
+  }
+
+.book12 {
+  position: absolute;
+  z-index: 2;
+
+  width: 52vw;
+  margin-top: 72vw;
+  margin-left: -46vw;
+
+  box-shadow: 1px 1px 50px -16px;
+}
+
+.book13 {
+  position: absolute;
+  z-index: 1;
+
+  width: 56vw;
+  margin-top: 36vw;
+}
+
+.twentysix {
+  width: 40vw;
+  margin-top: 76vw;
+}
+
+.bathroom h3 {
+  margin-top: -20vw;
+  margin-left: 19vw;
+
+}
+
+.bathroom p {
+  width: 35vw;
+  margin-top: 7vw;
+  margin-left: 18vw;
+}
+
+#second11 {
+  position: absolute;
+  z-index: 3;
+
+  margin-top: -23vw;
+  margin-left: 36vw;
+
+  border: none;
+  background-color: black;
+}
+
+.book14{
+  width: 46vw;
+  margin-top: 20vw;
+
+  box-shadow: 1px 1px 50px -16px
+}
+
+.book15{
+  position: absolute;
+
+  width: 37vw;
+  margin-top: 7vw;
+  margin-left: 6vw;
+
+  box-shadow: 1px 1px 50px -16px
+}
+
+.book16{
+  position: absolute;
+  z-index: 3;
+
+  width: 60vw;
+  margin-top: 55vw;
+  margin-left: -6vw;
+
+  box-shadow: 1px 1px 50px -16px
+}
+
+.book17{
+  position: relative;
+  z-index: 2;
+
+  width: 100%;
+  margin-top: 5vw;
+
+  box-shadow: 1px 1px 50px -16px
+}
+
+.book18{
+  position: relative;
+  z-index: 1;
+
+  width: 30vw;
+  height: 77vw;
+  margin-top: -2vw;
+}
+
+#first12 {
+  margin-top: -51vw;
+  margin-left: 35vw;
+
+  transform: rotate(90deg);
+
+  border: none;
+  background-color: black;
+}
+
+#second13 {
+  position: absolute;
+  z-index: 3;
+
+  margin-top: -15vw;
+  margin-left: 70vw;
+
+  border: none;
+  background-color: black;
+}
+
+.twentyseven {
+  width: 31vw;
+  margin-top: 19vw;
+  margin-left: 29vw;
+}
+
+.livingroom h3 {
+  margin-top: -12vw;
+  margin-left: 42vw;
+
+}
+
+.livingroom p {
+  width: 34vw;
+  margin-top: 9vw;
+  margin-left: 42vw;
+}
+
+.book19{
+  width: 100%;
+  margin-top: 17vw;
+}
+.book20{
+  width: 57vw;
+  margin-top: -13vw;
+}
+.book21{
+  position: absolute;
+
+  width: 36vw;
+  margin-top: 4vw;
+  margin-left: 4vw;
+}
+.book22{
+  position: absolute;
+
+  width: 38vw;
+  margin-top: 50vw;
+  margin-left: 5vw;
+}
+.book23{
+  width: 57vw;
+  margin-top: 5vw;
+}
+
+.endbook {
+  margin-top: -27vw;
 }
