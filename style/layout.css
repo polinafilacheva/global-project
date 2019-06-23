@@ -1921,8 +1921,8 @@ h1 {
   display: block;
 
   width: 45vw;
-  margin-top: 71vw;
-  margin-left: 6vw;
+  margin-top: 67vw;
+  margin-left: 5vw;
 
 
 }
@@ -1938,11 +1938,199 @@ h2 {
 }
 
 .hello p {
-      width: 36vw;
-      margin-top: -75vw;
-      margin-left: 12vw;
+  width: 36vw;
+  margin-top: -71vw;
+  margin-left: 12vw;
 
-      font-size: 2.3vw;
+  font-size: 2.3vw;
+  line-height: 2.7vw;
 
+}
+
+.two {
+  width: 32vw;
+  margin-top: 72vw;
+  margin-left: 7.4vw;
+}
+h3 {
+  margin-top: 3vw;
+margin-left: 28vw;
+
+  font-size: 9vw;
+}
+
+p {
+    width: 62vw;
+    margin-top: -155vw;
+    margin-left: 27vw;
+
+    font-size: 4vw;
+line-height: 4.7vw;
+}
+
+.link {
+    position: relative;
+    z-index: 2;
+
+    margin-left: 27vw;
+
+    font-size: 4vw;
+}
+
+.three {
+    width: 100%;
+    margin-top: 69vw;
+    margin-left: 0vw;
+
+    box-shadow: none;
+}
+
+#second1 {
+    margin-top: 129vw;
+    margin-left: 53vw;
+}
+
+.four {
+    width: 32vw;
+    margin-top: -15vw;
+    margin-left: 8vw;
+}
+
+.poster h3 {
+    margin-top: -24vw;
+    margin-left: 21vw;
+}
+
+.poster p {
+    width: 61vw;
+    margin-top: -152vw;
+    margin-left: 22vw;
+}
+
+.link2 {
+    margin-left: 23vw;
+
+    font-size: 4vw;
+}
+
+.five {
+    width: 70%;
+    margin-top: 75vw;
+        margin-left: 20vw;
+}
+
+.boxtwo {
+    width: 60vw;
+    margin-top: -9vw;
+    margin-left: 0vw;
+}
+
+.poster {
+      margin-left: 5vw;
+}
+
+.sixs {
+    position: relative;
+    z-index: 3;
+
+    width: 36vw;
+    margin-top: 66vw;
+    margin-left: 1vw;
+}
+
+.book h3 {
+    margin-top: 3vw;
+    margin-left: 28vw;
+
+    font-size: 9vw;
+}
+
+#second2 {
+    margin-top: -23vw;
+    margin-left: 48vw;
+}
+
+.book p {
+    width: 61vw;
+    margin-top: -126vw;
+    margin-left: 27vw;
+}
+
+.link3 {
+    margin-left: 27vw;
+
+    font-size: 4vw;
+}
+
+.box3 {
+    position: absolute;
+z-index: 1;
+
+    width: 40vw;
+    margin-top: -106vw;
+    margin-left: 60vw;
+
+    transform: scale(-1, 1);
+}
+
+.seven {
+    width: 83%;
+    margin-top: 69vw;
+    margin-left: 17vw;
+}
+
+.eight {
+    width: 37vw;
+    margin-top: 108vw;
+    margin-left: 6vw;
+}
+
+.modo h3 {
+    margin-top: 4vw;
+    margin-left: 27vw;
+
+    font-size: 9vw;
+}
+
+.modo p {
+    width: 68vw;
+    margin-top: -168vw;
+    margin-left: 27vw;
+}
+
+.link4 {
+    margin-left: 27vw;
+
+    font-size: 4vw;
+}
+
+.nine {
+    width: 70%;
+    margin-top: 76vw;
+    margin-left: 23vw;
+}
+
+.modo br {
+  display: none;
+}
+
+.endmodo br {
+  display: block;
+}
+
+h5 {
+width: 36vw;
+}
+
+#namecurate {
+    width: 18vw;
+}
+
+.hello {
+      margin-left: 7vw;
+}
+
+footer {
+  width: 117vw;
 }
 }
