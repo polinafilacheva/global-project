@@ -7,7 +7,7 @@ h1, h2, h3 {
 }
 header {
   position: fixed;
-  z-index: 5;
+  z-index: 6;
 
   display: flex;
 
@@ -40,7 +40,6 @@ header {
 }
 .class {
   position: fixed;
-  z-index: 5;
 
   display: flex;
 
@@ -1200,8 +1199,6 @@ h6 {
   width: 41vw;
   margin-top: -58vw;
   margin-left: 62vw;
-
-
 }
 
 .twentyfour {
@@ -1561,7 +1558,7 @@ h6 {
   display: none;
 }
 
-@media(max-width: 769px) {
+/* @media(max-width: 769px) {
 
   .webposter br {
     display: none;
@@ -1893,8 +1890,8 @@ h6 {
 
 }
 }
-
-@media(max-width: 376px) {
+ */
+@media(max-width: 768px) {
 
   .class {
       position: fixed;
