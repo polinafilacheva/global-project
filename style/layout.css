@@ -967,7 +967,7 @@ h6 {
   position: relative;
   z-index: 1;
 
-  width: 40vw;
+width: 38vw;
   margin-top: -131vw;
 }
 
@@ -1558,340 +1558,12 @@ h6 {
   display: none;
 }
 
-/* @media(max-width: 769px) {
 
-  .webposter br {
-    display: none;
-  }
-
-  .book br {
-    display: none;
-  }
-  header {
-    position: fixed;
-    z-index: 5;
-
-    font-size: 2vw;
-  }
-
-  .class {
-    position: fixed;
-    z-index: 5;
-
-    font-size: 2vw;
-  }
-
-  .hello p {
-    width: 31vw;
-  }
-
-  p {
-    font-size: 2vw;
-    line-height: 2.7vw;
-  }
-
-  #first {
-    display: none;
-  }
-
-  .two {
-    width: 32vw;
-    margin-top: 43vw;
-    margin-left: 14.4vw;
-  }
-
-  #second {
-    margin-top: -16vw;
-    margin-left: 53vw;
-  }
-
-  h3 {
-    margin-top: 3vw;
-    margin-left: 34vw;
-  }
-
-  p {
-    width: 49vw;
-    margin-top: -118vw;
-    margin-left: 34vw;
-  }
-
-  .link {
-    position: relative;
-    z-index: 2;
-
-    margin-left: 34vw;
-  }
-
-  .three {
-    width: 100%;
-    margin-top: 34vw;
-    margin-left: 0vw;
-
-    box-shadow: none;
-  }
-
-  #second1 {
-    margin-top: 104vw;
-    margin-left: 55vw;
-  }
-
-  .four {
-    width: 32vw;
-    margin-top: -15vw;
-    margin-left: 17vw
-  }
-
-  .poster h3 {
-    margin-top: -24vw;
-    margin-left: 34vw;
-  }
-
-  .poster p {
-    width: 44vw;
-    margin-top: -121vw;
-    margin-left: 34vw;
-  }
-
-  .link2 {
-    margin-left: 34vw
-  }
-
-  .five {
-    width: 70%;
-    margin-top: 39vw;
-    margin-left: 16vw;
-  }
-
-  .boxtwo {
-    margin-top: -31vw;
-    margin-left: 0vw;
-  }
-
-  .sixs {
-    position: relative;
-    z-index: 3;
-
-    width: 36vw;
-    margin-top: 66vw;
-    margin-left: 18vw;
-  }
-
-  #second2 {
-    margin-top: -23vw;
-    margin-left: 48vw;
-  }
-
-  .seven {
-    width: 83%;
-    margin-top: 40vw;
-    margin-left: 9vw;
-  }
-
-  .book h3 {
-    margin-top: 3vw;
-    margin-left: 34vw;
-  }
-
-  .book p {
-    width: 41vw;
-    margin-top: -96vw;
-    margin-left: 34;
-  }
-
-  .link3 {
-    margin-left: 34vw;
-  }
-
-  #first2 {
-    margin-top: -9vw;
-    margin-left: 2vw;
-  }
-
-  .box3 {
-    width: 40vw;
-    margin-top: -83vw;
-    margin-left: 60vw;
-
-    transform: scale(-1, 1);
-  }
-
-  .eight {
-    width: 37vw;
-    margin-top: 88vw;
-    margin-left: 12vw;
-  }
-
-  #second3 {
-    margin-top: -23vw;
-    margin-left: 45vw;
-  }
-
-  .modo h3 {
-    margin-top: 4vw;
-    margin-left: 34vw;
-  }
-
-  .nine {
-    width: 70%;
-    margin-top: 38vw;
-    margin-left: 16vw;
-  }
-
-  .modo p {
-    width: 41vw;
-    margin-top: -130vw;
-    margin-left: 34vw;
-  }
-
-  .link4 {
-    margin-left: 34vw;
-  }
-
-  footer {
-    margin-top: 152vw;
-  }
-
-  .posterhello p {
-    width: 33vw;
-  }
-  .whatitis br {
-    display: none;
-  }
-  #second8 {
-    margin-top: -16vw;
-    margin-left: 74vw;
-  }
-
-  .whatitis h3 {
-      margin-top: 4vw;
-      margin-left: 30vw;
-  }
-
-  .whatitis p {
-      width: 54vw;
-      margin-top: 7vw;
-      margin-left: 30vw;
-  }
-
-  .twentytwo {
-    width: 36vw;
-    margin-top: 11vw;
-
-}
-
-#second9 {
-    position: absolute;
-    z-index: 3;
-
-    margin-top: -22vw;
-    margin-left: 65vw;
-
-    border: none;
-    background-color: black;
-}
-
-.development p {
-    width: 51vw;
-    margin-top: 7vw;
-    margin-left: 22vw;
-}
-
-.bookhello p {
-    width: 26vw;
-    margin-top: 13vw;
-    margin-left: 13vw;
-}
-
-.idea p {
-    width: 47vw;
-
-}
-
-.idea br {
-  display: none;
-}
-
-.twentyfour {
-    width: 30vw;
-    margin-top: -32vw;
-    margin-left: 22vw;
-}
-
-#second14 {
-    position: absolute;
-    z-index: 3;
-
-    margin-top: -24vw;
-    margin-left: 50vw;
-
-    border: none;
-    background-color: black;
-}
-
-.kitchen h3 {
-    position: relative;
-    z-index: 2;
-
-    margin-top: -19vw;
-    margin-left: 38vw;
-
-    font-size: 6vw;
-}
-
-.kitchen p {
-    width: 35vw;
-    margin-top: 8vw;
-    margin-left: 38vw;
-
-    font-family: 'Open Sans Condensed', sans-serif;
-    font-size: 2vw;
-    font-weight: 300;
-    line-height: 2.3vw;
-}
-
-.bedroom {
-       margin-left: -15vw;
-}
-
-.twentyfive {
-    position: relative;
-    z-index: 2;
-
-    width: 43vw;
-    margin-top: -35vw;
-    margin-left: 29vw;
-}
-
-.bathroom {
-  margin-left: 15vw;
-}
-
-.twentysix {
-    position: relative;
-    z-index: 2;
-
-    width: 40vw;
-    margin-top: 76vw;
-}
-
-.livingroom br {
-  display: none;
-}
-
-.livingroom p {
-    width: 40vw;
-    margin-top: 9vw;
-    margin-left: 42vw;
-}
-
-.endfont {
-    margin-top: 31vw;
-
-}
-}
- */
 @media(max-width: 768px) {
+
+  body {
+    overflow-x: hidden;
+  }
 
   .class {
       position: fixed;
@@ -1917,9 +1589,9 @@ h6 {
 
   display: block;
 
-  width: 85vw;
+  width: 82vw;
   margin-top: 11vw;
-  margin-left: 7vw;
+  margin-left: -1vw;
 
   box-shadow: 1px 1px 50px -16px;
 }
@@ -1929,23 +1601,21 @@ h1 {
 }
 
 #min {
-  z-index: 4;
+    z-index: 4;
 
-  display: block;
+    display: block;
 
-  width: 45vw;
-  margin-top: 67vw;
-  margin-left: 5vw;
-
-
+    width: 45vw;
+    margin-top: 65vw;
+    margin-left: -3vw;
 }
 
 h2 {
     position: relative;
     z-index: 3;
 
-    margin-top: -80vw;
-    margin-left: 11vw;
+    margin-top: -78vw;
+    margin-left: 6vw;
 
     font-size: 8vw;
 }
@@ -1953,32 +1623,46 @@ h2 {
 .hello p {
   width: 36vw;
   margin-top: -71vw;
-  margin-left: 12vw;
+  margin-left: 6vw;
 
   font-size: 2.3vw;
   line-height: 2.7vw;
 
 }
 
+#second {
+    position: relative;
+    z-index: 3;
+
+    margin-top: -16vw;
+    margin-left: 57vw;
+
+    border: none;
+    background-color: black;
+}
+
+.webposter {
+      margin-top: -43vw;
+}
 .two {
   width: 32vw;
   margin-top: 72vw;
   margin-left: 7.4vw;
 }
 h3 {
-  margin-top: 3vw;
-margin-left: 28vw;
+    margin-top: 3vw;
+    margin-left: 28vw;
 
-  font-size: 9vw;
+    font-size: 9vw;
 }
 
 p {
     width: 62vw;
-    margin-top: -155vw;
+    margin-top: -135vw;
     margin-left: 27vw;
 
     font-size: 4vw;
-line-height: 4.7vw;
+    line-height: 4.7vw;
 }
 
 .link {
@@ -1991,8 +1675,8 @@ line-height: 4.7vw;
 }
 
 .three {
-    width: 100%;
-    margin-top: 69vw;
+    width: 87%;
+    margin-top: 61vw;
     margin-left: 6vw;
 
     box-shadow: none;
@@ -2001,6 +1685,16 @@ line-height: 4.7vw;
 #second1 {
     margin-top: 129vw;
     margin-left: 53vw;
+}
+
+#first2 {
+    margin-top: -8vw;
+    margin-left: 2vw;
+
+    transform: rotate(90deg);
+
+    border: none;
+    background-color: black;
 }
 
 .four {
@@ -2029,7 +1723,7 @@ line-height: 4.7vw;
 .five {
     width: 70%;
     margin-top: 75vw;
-        margin-left: 20vw;
+    margin-left: 12vw;
 }
 
 .boxtwo {
@@ -2039,7 +1733,8 @@ line-height: 4.7vw;
 }
 
 .poster {
-      margin-left: 5vw;
+margin-top: -32vw;
+  margin-left: 5vw;
 }
 
 .sixs {
@@ -2077,11 +1772,11 @@ line-height: 4.7vw;
 
 .box3 {
     position: absolute;
-z-index: 1;
+    z-index: 1;
 
-    width: 40vw;
-    margin-top: -106vw;
-    margin-left: 77vw;
+    width: 53vw;
+    margin-top: -149vw;
+    margin-left: 62vw;
 
     transform: scale(-1, 1);
 }
@@ -2107,7 +1802,7 @@ z-index: 1;
 
 .modo p {
     width: 68vw;
-    margin-top: -168vw;
+    margin-top: -156vw;
     margin-left: 27vw;
 }
 
@@ -2117,10 +1812,21 @@ z-index: 1;
     font-size: 4vw;
 }
 
+#second3 {
+    position: relative;
+    z-index: 3;
+
+    margin-top: -23vw;
+    margin-left: 43vw;
+
+    border: none;
+    background-color: black;
+}
+
 .nine {
-    width: 70%;
-    margin-top: 76vw;
-    margin-left: 23vw;
+    width: 70vw;
+    margin-top: 66vw;
+    margin-left: 15vw;
 }
 
 .modo br {
@@ -2137,10 +1843,23 @@ width: 36vw;
 
 #namecurate {
     width: 18vw;
+    margin-top: -2.6vw;
 }
 
 .hello {
           margin-left: 10vw;
+}
+
+.end {
+    position: relative;
+    z-index: 1;
+
+    width: 100%;
+    height: 21vw;
+    margin-top: 130vw;
+
+    opacity: .2;
+    background-color: #C4C4C4;
 }
 
 footer {
@@ -2151,18 +1870,24 @@ footer {
   display: none;
 }
 
+#curate {
+    position: absolute;
+
+    margin-top: -5.3vw;
+    margin-left: 81vw;
+}
+
 .modo-2 {
-  position: relative;
-  z-index: 2;
+    position: relative;
+    z-index: 2;
 
-  display: block;
+    display: block;
 
-      width: 99vw;
-  margin-top: 11vw;
-  margin-left: 8vw;
+    width: 82vw;
+    margin-top: 11vw;
+    margin-left: 8vw;
 
-  box-shadow: 1px 1px 50px -16px;
-
+    box-shadow: 1px 1px 50px -16px;
 }
 
 .modo2 {
@@ -2170,7 +1895,7 @@ footer {
 }
 
 .modohello h2 {
-margin-top: -84vw;
+    margin-top: -74vw;
     margin-left: 12vw;
 }
 
@@ -2183,12 +1908,12 @@ margin-top: -84vw;
       line-height: 3.7vw;
   }
 
-#second8 {
-    position: absolute;
+  #second8 {
+      position: absolute;
 
-    margin-top: -23vw;
-    margin-left: 56vw;
-}
+      margin-top: -26vw;
+      margin-left: 56vw;
+  }
 
 .twentyone {
     width: 39vw;
@@ -2245,7 +1970,7 @@ margin-top: -84vw;
 
   display: block;
 
-  width: 99vw;
+width: 82vw;
   margin-top: 11vw;
   margin-left: 8vw;
 
@@ -2260,16 +1985,17 @@ margin-top: -84vw;
 }
 
 .modo9 {
-    width: 115vw;
+    width: 99vw;
+
 }
 
 .modo10 {
-    width: 115vw;
-        margin-top: 245vw;
+    width: 99vw;
+        margin-top: 235vw;
 }
 
 .posterhello h2 {
-    margin-top: -60vw;
+    margin-top: -49vw;
     margin-left: 17vw;
 }
 
@@ -2319,7 +2045,9 @@ line-height: 3.7vw;
     background-color: black;
 }
 
-
+.final {
+      margin-left: -5vw;
+}
 .final h3 {
     width: 20vw;
     margin-top: -24vw;
@@ -2347,6 +2075,7 @@ line-height: 3.7vw;
 
     width: 116vw;
     margin-top: -74vw;
+        margin-left: -4vw;
 }
 
 .eighteen {
@@ -2358,7 +2087,7 @@ line-height: 3.7vw;
 
   display: block;
 
-  width: 99vw;
+width: 82vw;
   margin-top: 11vw;
   margin-left: 8vw;
 
@@ -2366,7 +2095,7 @@ line-height: 3.7vw;
 }
 
 .jobposter h2 {
-    margin-top: -79vw;
+    margin-top: -64vw;
     margin-left: 40vw;
 }
 
@@ -2388,6 +2117,12 @@ line-height: 3.7vw;
     margin-left: 28vw;
 
     transform: rotate(-31deg);
+}
+
+.graphic {
+    margin-top: -18vw;
+    margin-left: -24vw;
+
 }
 
 .graphic h3 {
@@ -2428,7 +2163,7 @@ line-height: 3.7vw;
 
     width: 37vw;
     height: 105vw;
-    margin-left: 96vw;
+    margin-left: 92vw;
 }
 
 .graph1 {
@@ -2443,7 +2178,7 @@ line-height: 3.7vw;
     position: relative;
     z-index: 2;
 
-    width: 70vw;
+    width: 53vw;
     margin-top: -77vw;
     margin-left: 47vw;
 }
@@ -2453,7 +2188,7 @@ line-height: 3.7vw;
     z-index: 2;
 
     width: 38vw;
-    margin-top: -52vw;
+      margin-top: -32.8vw;
 }
 
 .graph6 {
@@ -2462,7 +2197,7 @@ line-height: 3.7vw;
 
     width: 50vw;
     margin-top: 6.7vw;
-    margin-left: 30vw;
+margin-left: 31vw;
 }
 
 .graph7 {
@@ -2489,7 +2224,7 @@ line-height: 3.7vw;
     width: 71vw;
     height: 57vw;
     margin-top: -39vw;
-    margin-left: 46vw;
+margin-left: 31vw;
 }
 
 .twenty {
@@ -2505,6 +2240,16 @@ line-height: 3.7vw;
     margin-left: 27vw;
 
     font-size: 9vw;
+}
+
+#first6 {
+    margin-top: 11vw;
+    margin-left: 77vw;
+
+    transform: rotate(90deg);
+
+    border: none;
+    background-color: black;
 }
 
 #second7 {
@@ -2533,6 +2278,10 @@ line-height: 3.7vw;
     margin-left: 58vw;
 }
 
+.fonts {
+      margin-left: -3vw;
+}
+
 .font {
         position: relative;
             z-index: 2;
@@ -2546,17 +2295,17 @@ line-height: 3.7vw;
     position: relative;
     z-index: 2;
 
-    width: 58vw;
+    width: 41vw;
     margin-top: -29vw;
     margin-left: 59vw;
 }
 
 .no3 img {
     position: relative;
-    z-index: 3;
+    z-index: 1;
 
     width: 69vw;
-    margin-top: -47vw;
+    margin-top: -23vw;
     margin-left: 7vw;
 }
 
@@ -2565,15 +2314,15 @@ line-height: 3.7vw;
     z-index: 3;
 
     width: 41vw;
-    margin-top: -48vw;
-    margin-left: 68vw;
+    margin-top: -70vw;
+    margin-left: 59vw;
 }
 
 .font5 {
     position: relative;
     z-index: 4;
 
-    width: 58vw;
+    width: 45vw;
     margin-top: 6vw;
     margin-left: 0vw;
 }
@@ -2582,8 +2331,9 @@ line-height: 3.7vw;
     position: absolute;
 
     width: 48vw;
-    margin-top: 19vw;
-    margin-left: 11vw;
+    margin-top: -5vw;
+    margin-left: 7vw;
+    /* z-index: 3; */
 }
 
 #first8 {
@@ -2605,7 +2355,7 @@ line-height: 3.7vw;
 
   display: block;
 
-  width: 99vw;
+width: 82vw;
   margin-top: 11vw;
   margin-left: 8vw;
 
@@ -2613,7 +2363,7 @@ line-height: 3.7vw;
 }
 
 .bookhello h2 {
-    margin-top: -83vw;
+    margin-top: -71vw;
     margin-left: 27vw;
 }
 
@@ -2624,6 +2374,11 @@ line-height: 3.7vw;
 
     font-size: 3.3vw;
     line-height: 3.7vw;
+}
+
+.idea {
+    margin-top: -14vw;
+    margin-left: -12vw;
 }
 
 .twentythree {
@@ -2652,12 +2407,9 @@ line-height: 3.7vw;
 }
 
 .book {
-    position: relative;
-    z-index: 2;
-
-    width: 116vw;
+    width: 101vw;
     margin-top: 16vw;
-    margin-left: 3vw;
+
 }
 
 .book2 {
@@ -2675,6 +2427,9 @@ line-height: 3.7vw;
     margin-left: 10vw;
 }
 
+.kitchen {
+      margin-left: -5vw;
+}
 .kitchen h3 {
     position: relative;
     z-index: 2;
@@ -2718,19 +2473,25 @@ line-height: 3.7vw;
 }
 
 .book3 {
-    width: 90vw;
-    margin-top: 29vw;
-    margin-left: 14vw;
+    width: 101vw;
+    margin-top: 26vw;
+    /* margin-left: 14vw; */
 
     box-shadow: 1px 1px 50px -16px;
 }
 
 .book4 {
-    position: absolute;
+display: none;
+}
 
-    width: 66vw;
-    margin-top: -15vw;
-    margin-left: 0vw;
+.book5 {
+    position: absolute;
+    z-index: 3;
+
+    width: 67vw;
+    margin-top: -26vw;
+    margin-top: -25vw;
+    margin-left: 33vw;
 
     box-shadow: 1px 1px 50px -16px;
 }
@@ -2739,21 +2500,9 @@ line-height: 3.7vw;
     position: absolute;
     z-index: 3;
 
-    width: 67vw;
+    width: 45vw;
     margin-top: -27vw;
-    margin-top: 7vw;
-    margin-left: 49vw;
-
-    box-shadow: 1px 1px 50px -16px;
-}
-
-.book5 {
-    position: absolute;
-    z-index: 3;
-
-    width: 67vw;
-    margin-top: -27vw;
-    margin-top: 7vw;
+    margin-top: 6vw;
     margin-left: 49vw;
 
     box-shadow: 1px 1px 50px -16px;
@@ -2763,8 +2512,8 @@ line-height: 3.7vw;
     position: relative;
     z-index: 2;
 
-    width: 108vw;
-    margin-top: 32vw;
+    width: 61vw;
+    margin-top: 6vw;
     margin-left: -1vw;
 
     box-shadow: 1px 1px 50px -16px;
@@ -2772,11 +2521,11 @@ line-height: 3.7vw;
 
 .book6 {
     position: absolute;
-    z-index: 3;
+    z-index: 2;
 
-    width: 68vw;
-    margin-top: 87vw;
-    margin-left: 48vw;
+    width: 82vw;
+    margin-top: 44vw;
+    margin-left: 18vw;
 
     box-shadow: 1px 1px 50px -16px;
 }
@@ -2788,6 +2537,11 @@ line-height: 3.7vw;
     width: 49vw;
     margin-top: -32vw;
     margin-left: 13vw;
+}
+
+.bedroom {
+  margin-top: 18vw;
+margin-left: -20vw;
 }
 
 .bedroom h3 {
@@ -2821,8 +2575,8 @@ line-height: 3.7vw;
     position: absolute;
     z-index: 2;
 
-    width: 67vw;
-    margin-top: 19vw;
+    width: 52vw;
+    margin-top: 22vw;
     margin-left: 5vw;
 
     box-shadow: 1px 1px 50px -16px;
@@ -2833,8 +2587,19 @@ line-height: 3.7vw;
     z-index: 2;
 
     width: 77vw;
-    margin-top: 84vw;
-    margin-left: -5vw;
+    margin-top: 72vw;
+    margin-left: -13vw;
+
+    box-shadow: 1px 1px 50px -16px;
+}
+
+.book12 {
+    position: absolute;
+    z-index: 2;
+
+    width: 52vw;
+    margin-top: 80vw;
+    margin-left: -44vw;
 
     box-shadow: 1px 1px 50px -16px;
 }
@@ -2843,7 +2608,7 @@ line-height: 3.7vw;
     position: absolute;
     z-index: 1;
 
-    width: 72vw;
+    width: 62vw;
     margin-top: 36vw;
 }
 
@@ -2854,6 +2619,11 @@ line-height: 3.7vw;
     width: 51vw;
     margin-top: 111vw;
     margin-left: -7vw;
+}
+
+.bathroom {
+margin-top: -15vw;
+  margin-left: 5vw;
 }
 
 .bathroom h3 {
@@ -2880,9 +2650,10 @@ line-height: 3.7vw;
 
 .book15 {
     position: absolute;
+    z-index: 4;
 
-    width: 63vw;
-    margin-top: 7vw;
+    width: 47vw;
+    margin-top: 42vw;
     margin-left: 6vw;
 
     box-shadow: 1px 1px 50px -16px;
@@ -2894,7 +2665,7 @@ line-height: 3.7vw;
 
     width: 103vw;
     margin-top: 85vw;
-    margin-left: -42vw;
+    margin-left: -47vw;
 
     box-shadow: 1px 1px 50px -16px;
 }
@@ -2903,7 +2674,7 @@ line-height: 3.7vw;
     position: relative;
     z-index: 3;
 
-    width: 63vw;
+    width: 76vw;
     margin-top: 57vw;
 
     box-shadow: 1px 1px 50px -16px;
@@ -2915,14 +2686,14 @@ line-height: 3.7vw;
 
     width: 30vw;
     height: 77vw;
-    margin-top: 67vw;
+    margin-top: 84vw;
     /* margin-right: 20vw; */
-    margin-left: -63vw;
+    margin-left: -76vw;
 }
 
 #first12 {
     margin-top: -5vw;
-    margin-left: 74vw;
+    margin-left: 72vw;
 
     transform: rotate(90deg);
 
@@ -2959,7 +2730,9 @@ line-height: 3.7vw;
     margin-left: 25vw;
 }
 .livingroom {
-  margin-left: 7vw
+      margin-top: 15vw;
+      margin-left: -3vw;
+
 }
 
 .book19 {
