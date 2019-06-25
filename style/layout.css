@@ -6,23 +6,62 @@ h1, h2, h3 {
   font-weight: bold;
 }
 header {
-  position: fixed;
-  z-index: 6;
+    position: fixed;
+    z-index: 6;
+    /* display: flex; */
 
-  display: flex;
+    width: 100%;
+    /* margin: 2vw 0; */
 
-  width: 100%;
-  margin: 2vw 0;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 1.5vw;
+    font-weight: 300;
 
-  font-family: 'Open Sans Condensed', sans-serif;
-  font-size: 1.5vw;
-  font-weight: 300;
-
-  align-items: center;
-  justify-content: space-between;
-
+    align-items: center;
+    /* justify-content: space-between; */
 }
 
+#no9 {
+  display: block;
+}
+
+#no10{
+  display: block;
+}
+
+#no5 {
+  display: none;
+}
+
+#no12 {
+  display: none;
+}
+
+#no8 {
+  display: none;
+}
+
+
+
+#no18 {
+  display: none;
+}
+
+#no20, #no21, #no23, #no26 {
+  display: none;
+}
+
+
+
+
+.menu {
+  display: flex;
+
+    margin: 1vw 2vw;
+
+    justify-content: space-between;
+    align-items: center;
+}
 .modo-2 {
   display: none;
 }
@@ -39,17 +78,18 @@ header {
   display: none;
 }
 .class {
-  position: fixed;
+    position: fixed;
 
-  display: flex;
+    display: flex;
 
-  width: 100%;
+    margin-left: 30vw;
+    /* width: 100%; */
 
-  font-family: 'Open Sans Condensed', sans-serif;
-  font-size: 1.5vw;
-  font-weight: 300;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 1.5vw;
+    font-weight: 300;
 
-  justify-content: center;
+    justify-content: center;
 }
 
 .class a {
@@ -410,6 +450,8 @@ p {
   margin-left: 34vw;
 }
 
+
+
 .modo h3 {
   position: relative;
   z-index: 2;
@@ -432,7 +474,7 @@ p {
 
   width: 100%;
   height: 21vw;
-  margin-top: 44vw;
+margin-top: 57vw;
 
   opacity: .2;
   background-color: #C4C4C4;
@@ -685,7 +727,7 @@ h6 {
 }
 
 .endposter {
-  margin-top: -33vw;
+  margin-top: -54vw;
 }
 
 .eighteen {
@@ -1145,7 +1187,108 @@ width: 38vw;
 }
 
 .endmodo .end {
-  margin-top: 153vw;
+  margin-top: 182vw;
+}
+
+.fich {
+    position: absolute;
+
+    margin-top: 174vw;
+}
+
+.fichstyle {
+    width: 59vw;
+    margin-top: -29vw;
+    margin-left: 22vw;
+
+    box-shadow: 1px 1px 50px -16px;
+}
+
+.fich p {
+  position: absolute;
+
+    margin-top: -8vw;
+    margin-left: 29vw;
+}
+
+.fich a {
+  text-decoration: none;
+
+color: black;
+}
+
+.fich h3 {
+    position: absolute;
+
+    margin-top: -26vw;
+    margin-left: 38vw;
+}
+
+.fich2 {
+    position: absolute;
+
+    margin-top: 26vw;
+}
+
+.fich2style {
+    width: 59vw;
+    margin-top: -29vw;
+    margin-left: 22vw;
+
+    box-shadow: 1px 1px 50px -16px;
+}
+
+.fich2 p {
+    position: absolute;
+
+    margin-top: -13vw;
+    margin-left: 35vw;
+}
+
+.fich2 a {
+  text-decoration: none;
+
+color: black;
+}
+
+.fich2 h3 {
+    position: absolute;
+
+    margin-top: -26vw;
+    margin-left: 35vw;
+}
+.fich3 {
+    position: absolute;
+
+    margin-top: 33vw;
+}
+
+.fich3style {
+    width: 59vw;
+    margin-top: -29vw;
+    margin-left: 22vw;
+
+    box-shadow: 1px 1px 50px -16px;
+}
+
+.fich3 p {
+  position: absolute;
+
+  margin-top: -10vw;
+  margin-left: 56vw;
+}
+
+.fich3 a {
+  text-decoration: none;
+
+color: black;
+}
+
+.fich3 h3 {
+  position: absolute;
+
+  margin-top: -26vw;
+  margin-left: 26vw;
 }
 
 .bookhello h2 {
@@ -1189,7 +1332,7 @@ width: 38vw;
   z-index: 2;
 
   width: 100%;
-  margin-top: 16vw;
+margin-top: 3vw;
 }
 
 .book2 {
@@ -1547,7 +1690,7 @@ width: 38vw;
 }
 
 .endbook {
-  margin-top: -27vw;
+    margin-top: -12vw;
 }
 
 .one-2 {
@@ -1558,8 +1701,144 @@ width: 38vw;
   display: none;
 }
 
+#no2 {
+  display: none;
+}
+
 
 @media(max-width: 768px) {
+
+#no13 {
+  display: none;
+
+}
+
+#no8 {
+  display: block;
+}
+  #no11, #no24, #no25, #no16, #no17 {
+    display: none;
+  }
+
+  #no20, #no21, #no22, #no26, #no15, #no23, #no18 {
+    display: block;
+  }
+
+
+
+  .search {
+        margin-top: -16vw;
+  }
+
+  .whatitis {
+        margin-top: -6vw;
+  }
+
+.fich {
+    position: absolute;
+
+    margin-top: 153vw;
+}
+
+.fich h3 {
+    position: absolute;
+
+    margin-top: -28vw;
+    margin-left: 30vw;
+}
+
+.fichstyle {
+    width: 83vw;
+    margin-top: -29vw;
+    margin-left: 9vw;
+
+    box-shadow: 1px 1px 50px -16px;
+}
+
+.fich p {
+    position: absolute;
+
+    margin-top: -13vw;
+    margin-left: 21vw;
+
+    font-size: 3vw;
+line-height: 3.7vw;
+}
+
+.fich2 {
+    position: absolute;
+
+    margin-top: 50vw;
+}
+
+.fich2style {
+  width: 83vw;
+  margin-top: -29vw;
+  margin-left: 9vw;
+
+    box-shadow: 1px 1px 50px -16px;
+}
+
+.fich2 p {
+    position: absolute;
+
+    margin-top: -19vw;
+    margin-left: 28vw;
+
+    font-size: 3vw;
+line-height: 3.7vw;
+}
+
+
+
+
+
+.fich2 h3 {
+    position: absolute;
+
+    margin-top: -28vw;
+    margin-left: 28vw;
+}
+
+
+.fich3 {
+    position: absolute;
+
+    margin-top: 46vw;
+}
+
+.fich3style {
+  width: 83vw;
+  margin-top: -29vw;
+  margin-left: 9vw;
+
+    box-shadow: 1px 1px 50px -16px;
+}
+
+.fich3 p {
+  position: absolute;
+
+  margin-top: -12vw;
+  margin-left: 55vw;
+
+  font-size: 3vw;
+line-height: 3.7vw;
+
+}
+
+.fich3 a {
+  text-decoration: none;
+
+color: black;
+}
+
+.fich3 h3 {
+  position: absolute;
+
+  margin-top: -28vw;
+  margin-left: 13vw;
+}
+
 
   body {
     overflow-x: hidden;
@@ -1569,6 +1848,8 @@ width: 38vw;
       position: fixed;
       z-index: 5;
 
+          margin-left: 12vw;
+
       font-size: 3.5vw;
   }
 
@@ -1576,9 +1857,16 @@ width: 38vw;
     position: fixed;
     z-index: 5;
 
-        margin: -7vw 0;
-
     font-size: 3.5vw;
+}
+
+.menu {
+    display: flex;
+
+    margin: -10vw 2vw;
+
+    justify-content: space-between;
+    align-items: center;
 }
   .one {
     display: none;
@@ -1657,7 +1945,7 @@ h3 {
 }
 
 p {
-    width: 62vw;
+    width: 60vw;
     margin-top: -135vw;
     margin-left: 27vw;
 
@@ -1795,7 +2083,7 @@ margin-top: -32vw;
 
 .modo h3 {
     margin-top: 4vw;
-    margin-left: 27vw;
+margin-left: 20vw;
 
     font-size: 9vw;
 }
@@ -1803,11 +2091,11 @@ margin-top: -32vw;
 .modo p {
     width: 68vw;
     margin-top: -156vw;
-    margin-left: 27vw;
+margin-left: 20vw;
 }
 
 .link4 {
-    margin-left: 27vw;
+margin-left: 20vw;
 
     font-size: 4vw;
 }
@@ -1827,10 +2115,6 @@ margin-top: -32vw;
     width: 70vw;
     margin-top: 66vw;
     margin-left: 15vw;
-}
-
-.modo br {
-  display: none;
 }
 
 .endmodo br {
@@ -1885,7 +2169,7 @@ footer {
 
     width: 82vw;
     margin-top: 11vw;
-    margin-left: 8vw;
+margin-left: 9vw;
 
     box-shadow: 1px 1px 50px -16px;
 }
@@ -1908,17 +2192,31 @@ footer {
       line-height: 3.7vw;
   }
 
-  #second8 {
-      position: absolute;
-
-      margin-top: -26vw;
-      margin-left: 56vw;
-  }
 
 .twentyone {
     width: 39vw;
     margin-top: 62vw;
     margin-left: 6vw;
+}
+
+#no {
+  display: none;
+}
+
+#no2 {
+  display: block;
+}
+
+/* #none {
+  display: n;
+} */
+
+#no3 {
+  display: none;
+}
+
+#no4 {
+  display: none;
 }
 
 .whatitis h3 {
@@ -1929,8 +2227,13 @@ footer {
     line-height: 10.5vw;
 }
 
+#no10 {
+  display: block;
+}
+
+
 .whatitis p {
-    width: 68vw;
+    width: 69vw;
     margin-top: 7vw;
     margin-left: 18vw;
 }
@@ -2368,7 +2671,7 @@ width: 82vw;
 }
 
 .bookhello p {
-    width: 43vw;
+    width: 45vw;
     margin-top: 5vw;
     margin-left: 27vw;
 
@@ -2396,7 +2699,7 @@ width: 82vw;
 }
 
 .idea p {
-    width: 71vw;
+    width: 75vw;
 }
 
 #second8 {
@@ -2407,9 +2710,9 @@ width: 82vw;
 }
 
 .book {
-    width: 101vw;
+    width: 104vw;
     margin-top: 16vw;
-
+    margin-left: 10vw;
 }
 
 .book2 {
@@ -2731,7 +3034,7 @@ margin-top: -15vw;
 }
 .livingroom {
       margin-top: 15vw;
-      margin-left: -3vw;
+      margin-left: 0vw;
 
 }
 
@@ -2760,5 +3063,11 @@ margin-top: -15vw;
     margin-left: 5vw;
 
     box-shadow: 1px 1px 50px -16px;
+}
+
+.modohello .posterhello .bookhello a {
+  text-decoration: none;
+
+  color: black;
 }
 }
