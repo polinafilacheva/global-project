@@ -183,7 +183,7 @@ h1 {
   background-color: #C4C4C4;
 }
 
-#first, #first2, #first4, #first5, #first6,
+#first, #first1, #first2, #first4, #first5, #first6,
 #first7, #first8, #first9, #first10,
 #first11, #first12, #first13, #first14, #first15, #first16  {
   width: 15vw;
@@ -314,8 +314,8 @@ p {
 }
 
 #first1 {
-  margin-top: 17vw;
-  margin-left: 52vw;
+  margin-top: 9vw;
+  margin-left: 84vw;
 }
 
 #second2 {
@@ -1580,6 +1580,12 @@ h6 {
   display: block;
 }
 
+.footer a {
+  text-decoration: line-through;
+
+  color: black;
+}
+
 
 @media(max-width: 768px) {
 
@@ -1967,7 +1973,7 @@ h6 {
 
     width: 82vw;
     margin-top: 11vw;
-    margin-left: 8vw;
+    margin-left: 9vw;
 
     box-shadow: 1px 1px 50px -16px;
   }
@@ -2373,7 +2379,7 @@ h6 {
   .book {
     width: 104vw;
     margin-top: 16vw;
-    margin-left: 10vw;
+    margin-left: 0vw;
   }
 
   .book2 {
